@@ -1,0 +1,6 @@
+#solve wiki lead to philosophy problem
+stop criteria (end up with phi or infinite loop)
+1.scraper
+2.make url queue
+3.(optiona) mongodb store url vs dictionary (check loop)
+

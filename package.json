@@ -1,0 +1,26 @@
+{
+  "name": "web_crawler",
+  "version": "1.0.0",
+  "description": "sample_crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BroFred/web_crawler.git"
+  },
+  "author": "BroFred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BroFred/web_crawler/issues"
+  },
+  "homepage": "https://github.com/BroFred/web_crawler",
+  "dependencies": {
+    "async": "^1.4.2",
+    "cheerio": "^0.19.0",
+    "express": "^4.13.3",
+    "request": "^2.60.0"
+  }
+}
